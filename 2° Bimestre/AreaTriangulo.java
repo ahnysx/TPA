@@ -9,7 +9,7 @@ public class AreaTriangulo {
 		System.out.println("Digite a altura");
 		altura=ler.nextDouble();
 		area=(base*altura)/2;
-		System.out.println("A área é:"+area);
+		System.out.println("A Ã rea Ã©:"+area);
 		ler.close();
 		
 	}
